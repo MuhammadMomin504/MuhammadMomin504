@@ -7,5 +7,5 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/muhammad-momin-80b61586/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am a traveler
+- ⚡ Fun fact: ... Wanna travel the world
 
