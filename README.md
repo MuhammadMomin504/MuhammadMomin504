@@ -1,7 +1,7 @@
 ### Here is what I'm working on! 👋
 
-- 🔭 I’m currently working on ... Game Development
-- 🌱 I’m currently learning ... Unity and Unreal Engine
+- 🔭 I’m currently working on ... Game Development in Unity3D
+- 🌱 I’m currently learning ... Unreal Engine
 - 👯 I’m looking to collaborate on ... Unity Tools and Game Mechanics
 - 🤔 I’m looking for help with ... Game Mechanics and Shader Development
 - 💬 Ask me about ... Anything
